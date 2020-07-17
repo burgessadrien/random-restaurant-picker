@@ -7,7 +7,7 @@ from restaurant import Restaurant
 
 class GooglePlaces():
     def __init__(self):
-        self.key = "AIzaSyASf5cZUnXNLcszwd6oSMH7GBzm-I5FyCE"
+        self.key = ""
 
 
     def request_restaurants(self, query):
